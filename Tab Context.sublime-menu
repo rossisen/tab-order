@@ -1,0 +1,6 @@
+[
+   { "caption": "-" },
+   { "caption": "Sort Tabs", "command": "order_files" },
+   { "caption": "Sort Group", "command": "order_files_in_group", "args": { "group": -1, "index": -1 }},
+   { "caption": "Sort Tabs to Right", "command": "order_files_to_right", "args": { "group": -1, "index": -1 }}
+]
